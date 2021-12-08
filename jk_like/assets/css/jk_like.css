@@ -1,0 +1,12 @@
+.jk-like-post-btn {
+    cursor: pointer;
+}
+
+.jk-like-post-btn:before {
+    font-size: 18px;
+    line-height: 1.3;
+}
+
+.jk-like-post-btn:hover {
+    opacity: .8;
+}
